@@ -4,3 +4,5 @@ Updates are coming.
 
 ### 🍟 How to run
 Clone the project and open the file `store.xcodeproj` with Xcode, then run the project on your iOS device or simulator.
+
+##### Coded with love by Giovanna Moeller ♥️
